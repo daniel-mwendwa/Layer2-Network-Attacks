@@ -1,4 +1,4 @@
-# Layer2-Network-Attacks  
+# Layer2-Network-Attacks   
 
 ## Overview  
 This repository explores Layer 2 network attacks, including **MAC flooding**, **ARP spoofing**, and **Man-in-the-Middle (MITM) attacks**. It covers methodologies, tools used, and mitigation techniques based on practical exercises from the **TryHackMe Layer2** room.  
