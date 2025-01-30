@@ -6,7 +6,7 @@ This repository explores Layer 2 network attacks, including **MAC flooding**, **
 ## Attacks Covered  
 - **Network Discovery** – Identifying active hosts and their details.   
 - **Passive Network Sniffing** – Capturing and analyzing network traffic.  
-- **MAC Flooding** – Overloading a switch to force traffic broadcast.  
+- **MAC Flooding** – Overloading a switch to force traffic broadcast.   
 - **ARP Spoofing** – Redirecting traffic by poisoning ARP tables.  
 - **MITM Sniffing** – Intercepting and analyzing communications.  
 - **MITM Manipulation** – Modifying network packets in transit.  
