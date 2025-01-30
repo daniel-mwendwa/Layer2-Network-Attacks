@@ -10,7 +10,7 @@ This repository explores Layer 2 network attacks, including **MAC flooding**, **
 - **ARP Spoofing** – Redirecting traffic by poisoning ARP tables.  
 - **MITM Sniffing** – Intercepting and analyzing communications.  
 - **MITM Manipulation** – Modifying network packets in transit.  
-
+ 
 ## Tools Used   
 - `Nmap` – Network scanning and host discovery  
 - `Tcpdump` – Packet capture and traffic analysis  
