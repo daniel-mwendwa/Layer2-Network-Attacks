@@ -4,7 +4,7 @@
 This repository explores Layer 2 network attacks, including **MAC flooding**, **ARP spoofing**, and **Man-in-the-Middle (MITM) attacks**. It covers methodologies, tools used, and mitigation techniques based on practical exercises from the **TryHackMe Layer2** room.  
 
 ## Attacks Covered  
-- **Network Discovery** – Identifying active hosts and their details.  
+- **Network Discovery** – Identifying active hosts and their details.   
 - **Passive Network Sniffing** – Capturing and analyzing network traffic.  
 - **MAC Flooding** – Overloading a switch to force traffic broadcast.  
 - **ARP Spoofing** – Redirecting traffic by poisoning ARP tables.  
